@@ -110,6 +110,9 @@ Set up Prometheus and Grafana for monitoring:
 3. Set up Grafana dashboards to visualize metrics from Prometheus.
 
 ## Output
+![Pipeline Overview](Output/pipeline-overview.png)
+![Pipeline Console](Output/pipeline-console.png)
+![Prometheus Dashboard](Output/dashboard.png)
 
 
 
