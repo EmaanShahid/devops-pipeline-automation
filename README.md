@@ -1,7 +1,5 @@
 # DevOps Pipeline Automation 
 
-# DevOps Pipeline Project
-
 This repository contains a comprehensive DevOps pipeline project utilizing Jenkins, Docker, JFrog Artifactory, Prometheus, Grafana, Ansible, Terraform, and Kubernetes. The project covers infrastructure provisioning, CI/CD automation, containerization, deployment, and monitoring.
 
 ## Table of Contents
@@ -113,10 +111,6 @@ Set up Prometheus and Grafana for monitoring:
 ![Pipeline Overview](Output/pipeline-overview.png)
 ![Pipeline Console](Output/pipeline-console.png)
 ![Prometheus Dashboard](Output/dashboard.png)
-
-
-
 ---
 
 Feel free to clone this repository and follow the instructions to set up your DevOps pipeline project. Contributions and feedback are welcome!
-
